@@ -366,7 +366,7 @@ MonoBehaviour:
     height: 501
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46010000
+    m_SelectedIDs: 80250000
     m_LastClickedID: 0
     m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
@@ -577,7 +577,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 60
-  m_LastProjectPath: C:\Users\cahj1\Desktop\ColorMania1\ColroMania
+  m_LastProjectPath: C:\Users\cahj1\Documents\GitHub\ColorMania\ColroMania
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -638,7 +638,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 76730000e421eeff4a430000949c0000849c000014cffcff8895000008a6fcff462a000062defeff1aa100006c320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
